@@ -1,6 +1,6 @@
 import pandas as pd
 
-# Load dataset
+
 
 df = pd.read_csv(r"C:\Users\harsh\OneDrive\Desktop\cs2 python\loan_approval_dataset.csv")
 df.columns = df.columns.str.strip()
