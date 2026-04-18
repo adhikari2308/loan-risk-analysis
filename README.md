@@ -90,8 +90,18 @@ This project focuses on analyzing a Loan Approval dataset to uncover key insight
 
 ## 📂 Project Structure
 ├── load.py # Data loading & basic inspection
+
+
 ├── eda.py # Exploratory Data Analysis & visualization
+
+
 ├── ztest.py # Statistical testing (Z-Test)
+
+
 ├── ml.py # Machine Learning model
+
+
 ├── loan_approval_dataset.csv
+
+
 └── README.md
